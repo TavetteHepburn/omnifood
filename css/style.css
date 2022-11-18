@@ -1,0 +1,38 @@
+/*
+--- 01 TYPOGRAPHY SYSTEM
+
+- Font sizes (px):
+- Font weights: 400
+- Line Heights: Default 1
+
+--- 02 COLOR SYSTEM
+
+- Primary: #e67e22
+- Tints:
+- Shades:
+- Accents:
+- Greys: #555
+
+--- 05 SHADOWS
+
+--- 05 BORDER_RADIUS
+
+--- 07 WHITESPACE
+- SPACING SYSMTEM (PX)
+
+
+
+ */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
